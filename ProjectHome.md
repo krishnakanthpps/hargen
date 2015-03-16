@@ -1,0 +1,1 @@
+Command-line headless chromium that emits a HAR file for a given web page. Works on Linux, Mac, and Windows.
